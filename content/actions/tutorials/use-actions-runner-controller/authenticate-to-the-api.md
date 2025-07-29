@@ -1,4 +1,4 @@
----
+
 title: Authenticating ARC to the GitHub API
 shortTitle: Authenticate to the API
 intro: 'Learn how to authenticate {% data variables.product.prodname_actions_runner_controller %} to the {% data variables.product.company_short %} API.'
